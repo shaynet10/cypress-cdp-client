@@ -1,6 +1,6 @@
 {
   "name": "cypress-cdp-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds ability to copy and paste from clipboard to Cypress",
   "main": "index.js",
   "scripts": {
